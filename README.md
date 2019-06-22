@@ -1,8 +1,9 @@
 # mvhg_validation
 Scripts for validating the multivariate hypergeometric distribution in NumPy.
 
-The scripts "check1.py" and "check2.py" are used to evaluate the multivariate
-hypergeometric distribution that is currently in my `new-mvhg` branch of NumPy.
+The scripts "check1.py", "check1b.py" and "check2.py" are used to
+evaluate the multivariate hypergeometric distribution that is currently
+in my `new-mvhg` branch of NumPy.
 
 They require `mpmath` and `mpsci` (https://github.com/WarrenWeckesser/mpsci).
 "check2.py" also requires matplotlib.
